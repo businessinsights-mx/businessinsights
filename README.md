@@ -1,1 +1,2 @@
 # businessinsights
+Plataforma Odoo sh

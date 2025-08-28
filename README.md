@@ -1,2 +1,2 @@
 # businessinsights
-Plataforma Odoo sh
+## Plataforma Odoo SH

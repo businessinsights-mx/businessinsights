@@ -1,0 +1,3 @@
+[submodule "custom_addons/sales_commission"]
+	path = custom_addons/sales_commission
+	url = git@github.com:businessinsights-mx/sales_commission.git
